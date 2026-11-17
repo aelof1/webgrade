@@ -37,7 +37,7 @@ Grade: **A** ≥ 90, **B** ≥ 75, **C** ≥ 60, **D** ≥ 45, **E** ≥ 30, oth
 
 ## Requirements
 
-- **Python 3.9 or newer**
+- **Python 3.10 or newer**
 - An Internet connection (for public websites)
 - No external libraries
 
